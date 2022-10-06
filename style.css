@@ -3,7 +3,7 @@
        text-align:center;
       font-size:50px;
 }
-.lima{
+@keyframes lima{
         from{filter: blurred(100%)
         }
         to{filter:blurred(0%)
