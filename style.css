@@ -8,8 +8,13 @@
         }
         to{filter:blurred(0%)
         }
-        animation-duration:2s
+        
 }
+img.lima {
+        animation:lima ;
+        animation-duration:6s; 
+}
+           
 span{font-weight:bold;
         color:red;
 }
