@@ -27,6 +27,7 @@ div{font-style:Helvetica
 .tres{color:LightBlue
 }
 .one{width:200px;
+        transition:transform 2s, width 2s;
 }
 .div{font-size:30px;
 }
@@ -35,47 +36,50 @@ div{font-style:Helvetica
          
 }
 .two{width:200px
+        transition:transform 2s, width 2s;
+        
 }
 .two:hover{width:300px;
           filter:grayscale(100%);
 
 }
 .three{width:200px;
+        transition:transform 2s, width 2s;
 }
 .three:hover{width:300px;
           filter:grayscale (100%);
           
 }
 .four{width:200px;
-        transition:transform 2s, width:2s;
+        transition:transform 2s, width 2s;
 }
 .four:hover{width:300px;
           filter:grayscale(100%);
          
 }
 .five{width:200px;
-         transition:transform 2s, width:2s;
+         transition:transform 2s, width 2s;
 }
 .five:hover{width:300px;
           filter:grayscale(100%);
          
 }
 .six{width:200px;
-        transition:transform 2s, width:2s;
+        transition:transform 2s, width 2s;
 }
 .six:hover{width:300px;
           filter:grayscale(100%);
           
 }
 .seven{width:200px;
-        transition:transform 2s, width:2s;
+        transition:transform 2s, width 2s;
 }
 .seven:hover{width:300px;
           filter:grayscale(100%);
          
 }
 .eight{width:200px;
-        transition:transform 2s, width:2s;
+        transition:transform 2s, width 2s;
 }
 .eight:hover{width:300px;
           filter:grayscale(100%);
