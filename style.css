@@ -1,1 +1,10 @@
-
+#title{font-style:Georgia;
+        font-weight:bold;
+       text-align:center
+}
+img{width:200px
+}
+img:hover{width:300px
+          filter:grayscale
+          transition:transform 2s
+}
