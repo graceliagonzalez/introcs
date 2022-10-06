@@ -4,9 +4,9 @@
       font-size:50px;
 }
 @keyframes lima{
-        from{filter: blurred(100%)
+        from{filter: brightness(30%);
         }
-        to{filter:blurred(0%)
+        to{filter:brightness(100%);
         }
         
 }
