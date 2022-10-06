@@ -8,6 +8,10 @@
         }
         to{filter:blurred(0%)
         }
+        animation-duration:2s
+}
+.span{font-weight:bold;
+        color:red;
 }
 .div{font-style:Helvetica
 }
@@ -28,7 +32,7 @@
 .two{width:200px
 }
 .two:hover{width:300px;
-          filter:grayscale (100%);
+          filter:grayscale(100%);
           transition:transform 2s;
 }
 .three{width:200px;
