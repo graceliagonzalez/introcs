@@ -2,9 +2,62 @@
         font-weight:bold;
        text-align:center
 }
-img{width:200px
+div{font-style:Helvetica
 }
-img:hover{width:300px
+.uno{color:darkblue
+}
+.dos{color:blue
+}
+.tres{color:LightBlue
+}
+.one{width:200px
+}
+div{font-size:12px
+}
+.one:hover{width:300px
           filter:grayscale
           transition:transform 2s
 }
+.two{width:200px
+}
+.two:hover{width:300px
+          filter:grayscale
+          transition:transform 2s
+}
+.three{width:200px
+}
+.three:hover{width:300px
+          filter:grayscale
+          transition:transform 2s
+}
+.four{width:200px
+}
+.four:hover{width:300px
+          filter:grayscale
+          transition:transform 2s
+}
+.five{width:200px
+}
+.five:hover{width:300px
+          filter:grayscale
+          transition:transform 2s
+}
+.six{width:200px
+}
+.six:hover{width:300px
+          filter:grayscale
+          transition:transform 2s
+}
+.seven{width:200px
+}
+.seven:hover{width:300px
+          filter:grayscale
+          transition:transform 2s
+}
+.eight{width:200px
+}
+.eight:hover{width:300px
+          filter:grayscale
+          transition:transform 2s
+}
+
