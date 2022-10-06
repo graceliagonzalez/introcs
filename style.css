@@ -26,68 +26,77 @@ div{font-style:Helvetica
 }
 .tres{color:LightBlue
 }
-.one{width:200px;
-        transition:transform 2s, width 2s;
-}
 .div{font-size:30px;
 }
+.one{width:200px;
+     filter:grayscale(100%);
+    transition:transform 2s, width 2s;
+}
+
 .one:hover{width:300px;
-          filter:grayscale(100%);
-        transition:transform 2s;
+          filter:grayscale(0%);
+        
          
 }
-.two{width:200px
+.two{width:200px;
+     filter:grayscale(100%);
         transition:transform 2s, width 2s;
         
 }
 .two:hover{width:300px;
-          filter:grayscale(100%);
-        transition:transform 2s;
+          filter:grayscale(0%);
+      
 
 }
 .three{width:200px;
+       filter:grayscale(100%);
         transition:transform 2s, width 2s;
 }
 .three:hover{width:300px;
-          filter:grayscale (100%);
-          transition:transform 2s;
+          filter:grayscale (0%);
+          
 }
 .four{width:200px;
+       filter:grayscale(100%);
         transition:transform 2s, width 2s;
 }
 .four:hover{width:300px;
-          filter:grayscale(100%);
-        transition:transform 2s;
+          filter:grayscale(0%);
+      
          
 }
 .five{width:200px;
-         transition:transform 2s, width 2s;
+       filter:grayscale(100%);
+      transition:transform 2s, width 2s;
 }
 .five:hover{width:300px;
-          filter:grayscale(100%);
-        transition:transform 2s;
+          filter:grayscale(0%);
+        
          
 }
 .six{width:200px;
+     filter:grayscale(100%);
         transition:transform 2s, width 2s;
 }
 .six:hover{width:300px;
-          filter:grayscale(100%);
-          transition:transform 2s;
+          filter:grayscale(0%);
+         
 }
 .seven{width:200px;
+       filter:grayscale(100%);
         transition:transform 2s, width 2s;
 }
 .seven:hover{width:300px;
-          filter:grayscale(100%);
-        transition:transform 2s;
+          filter:grayscale(0%);
+      
          
 }
 .eight{width:200px;
+       filter:grayscale(100%);
         transition:transform 2s, width 2s;
 }
 .eight:hover{width:300px;
-          filter:grayscale(100%);
-        transition:transform 2s;
+          filter:grayscale(0%);
+        
           
 }
