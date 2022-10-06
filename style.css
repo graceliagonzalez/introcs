@@ -3,6 +3,12 @@
        text-align:center;
       font-size:50px;
 }
+.lima{
+        from{filter: blurred(100%)
+        }
+        to{filter:blurred(0%)
+        }
+}
 .div{font-style:Helvetica
 }
 .uno{color:darkblue
@@ -16,49 +22,49 @@
 .div{font-size:30px;
 }
 .one:hover{width:300px;
-          filter:grayscale;
+          filter:grayscale(100%);
           transition:transform 2s;
 }
 .two{width:200px
 }
 .two:hover{width:300px;
-          filter:grayscale;
+          filter:grayscale (100%);
           transition:transform 2s;
 }
 .three{width:200px;
 }
 .three:hover{width:300px;
-          filter:grayscale;
+          filter:grayscale (100%);
           transition:transform 2s;
 }
 .four{width:200px;
 }
 .four:hover{width:300px;
-          filter:grayscale;
+          filter:grayscale(100%);
           transition:transform 2s;
 }
 .five{width:200px;
 }
 .five:hover{width:300px;
-          filter:grayscale;
+          filter:grayscale(100%);
           transition:transform 2s;
 }
 .six{width:200px;
 }
 .six:hover{width:300px;
-          filter:grayscale;
+          filter:grayscale(100%);
           transition:transform 2s;
 }
 .seven{width:200px;
 }
 .seven:hover{width:300px;
-          filter:grayscale;
+          filter:grayscale(100%);
           transition:transform 2s;
 }
 .eight{width:200px;
 }
 .eight:hover{width:300px;
-          filter:grayscale;
+          filter:grayscale(100%);
           transition:transform 2s;
 }
 
